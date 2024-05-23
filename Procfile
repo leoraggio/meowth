@@ -1,1 +1,1 @@
-web: streamlit src/meowth/app.py
+web: streamlit run src/meowth/app.py

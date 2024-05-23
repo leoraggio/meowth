@@ -1,1 +1,1 @@
-web: streamlit run src/meowth/app.py
+web: sh setup.sh && streamlit run src/meowth/app.py

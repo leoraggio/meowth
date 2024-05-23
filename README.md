@@ -1,3 +1,3 @@
 # meowth
 
-Describe your project here.
+Describe your project here
